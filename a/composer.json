@@ -7,8 +7,15 @@
     "autoload": {
         "psr-4": {"Anax\\": "src/"}
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/canax/remserver"
+        }
+    ],
     "require": {
-        "anax/anax-ramverk1-me": "^1.0.0"
+        "anax/anax-ramverk1-me": "^1.0.0",
+        "spacelenore/ramverk1-redovisa": "^1.0.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7"
