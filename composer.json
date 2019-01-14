@@ -2,7 +2,7 @@
     "name": "SpaceLenore/ramverk1-redovisa",
     "type": "library",
     "description": "Anax personal redovisa page.",
-    "keywords": [""],
+    "keywords": ["anax", "dbwebb"],
     "homepage": "",
     "license": "",
     "autoload": {
@@ -13,7 +13,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/canax/remserver"
+            "url": "https://github.com/SpaceLenore/ramverk1-redovisa"
         }
     ],
     "minimum-stability": "beta",
