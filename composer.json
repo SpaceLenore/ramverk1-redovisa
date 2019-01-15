@@ -4,7 +4,7 @@
     "description": "Anax personal redovisa page.",
     "keywords": ["anax", "dbwebb"],
     "homepage": "",
-    "license": "CC BY-NC-ND 4.0",
+    "license": "CC-BY-NC-ND-4.0",
     "autoload": {
         "psr-4": {
             "Anax\\": "src/"
