@@ -10,12 +10,6 @@
             "Anax\\": "src/"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/SpaceLenore/ramverk1-redovisa"
-        }
-    ],
     "minimum-stability": "beta",
     "prefer-stable": true,
     "require": {
